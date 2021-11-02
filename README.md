@@ -1,3 +1,4 @@
-hi we are the end mission collective.
-we are a n osdd system of 16+
-this account will mostly be used by ender 
+hi,
+this is ender (he/they)
+this account will be for python programming discord bots mostly.
+when i get to that point
